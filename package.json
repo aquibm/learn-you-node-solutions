@@ -1,0 +1,26 @@
+{
+  "name": "learn-you-node-solutions",
+  "version": "1.0.0",
+  "description": "Solutions to the learnyounode node school workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquibm/learn-you-node-solutions.git"
+  },
+  "keywords": [
+    "learnyounode",
+    "solutions"
+  ],
+  "author": "Aquib Master",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aquibm/learn-you-node-solutions/issues"
+  },
+  "homepage": "https://github.com/aquibm/learn-you-node-solutions#readme",
+  "dependencies": {
+    "bl": "~1.1.2"
+  }
+}
