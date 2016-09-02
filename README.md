@@ -5,6 +5,3 @@ Run `npm install` in the root directory as some of the solutions require 3rd-par
 
 ## Packages Used
 * [bl](https://www.npmjs.com/package/bl)
-
-## License
-MIT
