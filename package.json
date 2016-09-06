@@ -22,6 +22,7 @@
   "homepage": "https://github.com/aquibm/learn-you-node-solutions#readme",
   "dependencies": {
     "bl": "~1.1.2",
-    "moment": "^2.14.1"
+    "moment": "^2.14.1",
+    "through2-map": "^2.0.0"
   }
 }
